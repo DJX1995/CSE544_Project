@@ -1,14 +1,15 @@
 # CSE544_Project
-Team member:
-Xuechun Li 114394046
+## Team member:
 
-Kaifeng Zheng 113400030
+## Xuechun Li 114394046
 
-Jianxiang Dong 113324068
+## Kaifeng Zheng 113400030
 
-Yu-chun Hsiao 114408084
+## Jianxiang Dong 113324068
 
-Lu Pang 113872413
+## Yu-chun Hsiao 114408084
+
+## Lu Pang 113872413
 
 
 
